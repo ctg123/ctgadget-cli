@@ -1,0 +1,7 @@
+{
+    "name": "ctgadget",
+    "version": "1.0.0",
+    "bin":{
+        "ctgadget": "index.js"
+    }
+}
