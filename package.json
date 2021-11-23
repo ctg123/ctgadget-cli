@@ -12,5 +12,13 @@
         "chaance graves",
         "chaance",
         "ctgadget"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "ctg123/ctgadget-cli",
+    "author": {
+        "name": "Chaance Graves",
+        "email": "chaance.graves@ctginnovations.io",
+        "url": "https://chaancegraves.com"
+    }
 }
